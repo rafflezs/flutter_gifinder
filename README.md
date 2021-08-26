@@ -1,18 +1,21 @@
-# buscador_de_gifs
+# buscador_de_gifs - PT_BR 🇧🇷
 
-A new Flutter project.
+Buscador de GIFs (dentro do repositório do Gihpy), utilizando API externa. A home do app recebe diariamente um novo feed de gifs (ranqueados em popularidade).
 
+# gifinder - EN 🇺🇸
 
+Gif search engine (using Giphy repository and API). The home is updated daily with new gifs (ranked based on popularity).
 
-## Getting Started
+## Home page 📱
 
-This project is a starting point for a Flutter application.
+<img src="..." width=30% height=30%>
 
-A few resources to get you started if this is your first Flutter project:
+## Executing ❗
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In order to execute this code, follow these steps:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. make shure you have [Flutter SDK](https://flutter.dev/docs/get-started/install) installed and set-up
+    1. Make sure you also have a device (emulated or physical) 
+2. clone this repo: `$ git clone https://github.com/rafflezs/flutter_gifinder`
+3. change directory to the cloned repo folder: `cd flutter_gifinder-master` 
+4. execute flutter: `flutter run`
