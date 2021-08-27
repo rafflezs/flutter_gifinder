@@ -8,7 +8,7 @@ Gif search engine (using Giphy repository and API). The home is updated daily wi
 
 ## Home page 📱
 
-<img src="..." width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/50029136/131151682-7efc6909-bd84-455f-ae18-2e16dad45f69.png" width=30% height=30%>
 
 ## Executing ❗
 
